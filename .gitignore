@@ -1,3 +1,9 @@
+*.suo
+*.db
+*.ipch
+
+/Debug/*
+
 # Prerequisites
 *.d
 
